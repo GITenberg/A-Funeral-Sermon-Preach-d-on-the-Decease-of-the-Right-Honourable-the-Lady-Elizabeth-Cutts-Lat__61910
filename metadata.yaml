@@ -1,0 +1,28 @@
+_repo: A-Funeral-Sermon-Preach-d-on-the-Decease-of-the-Right-Honourable-the-Lady-Elizabeth-Cutts-Lat__61910
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wigan, William
+    deathdate: 1700
+    gutenberg_agent_id: '51672'
+    url: http://www.gutenberg.org/2009/agents/51672
+description: ''
+gutenberg_issued: '2020-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Funeral sermons'
+- !lcc 'BV'
+- !lcsh 'Church of England -- Sermons'
+- !lcsh 'Sermons, English -- 17th century'
+- !lcsh 'Cutts, Elizabeth Pickering Cutts, Baroness, 1678 or 1679-1697'
+- GITenberg
+title: "A Funeral Sermon Preach'd on the Decease of the Right Honourable the Lady\
+  \ Elizabeth Cutts\r\nLate Wife of the Right Honourable the Lord Cutts, on the 5th\
+  \ of December, 1697, at Kensington Church"
+url: http://www.gutenberg.org/ebooks/61910
